@@ -226,7 +226,7 @@ img {
 
             #body.home div.header div h1 {
                 background: none;
-                color: #008542;
+                color: #367588;
                 display: block;
                 font-family: 'Arial Black';
                 font-size: 50px;
@@ -316,7 +316,7 @@ img {
                 }
 
                 #body.home div.body div p {
-                    color: #008542;
+                    color: #367588;
                     display: block;
                     font-family: Arial;
                     font-size: 21px;
@@ -344,8 +344,8 @@ img {
                         }
 
                 #body.home div.body div a.more {
-                    border: 5px solid #008542;
-                    color: #008542;
+                    border: 5px solid #367588;
+                    color: #367588;
                     display: block;
                     font-family: 'Arial Black';
                     font-size: 20px;
@@ -416,7 +416,7 @@ img {
     }
 
     #body div p {
-        color: #000;
+        color: #367588;
         display: block;
         font-family: Arial;
         font-size: 16px;
@@ -466,7 +466,7 @@ img {
             }
 
     #body div h2 {
-        color: #000;
+        color: #367588;
         font-family: arial;
         font-size: 20px;
         font-weight: normal;

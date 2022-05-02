@@ -8,7 +8,7 @@
 }
 
 input[type="button"] {
-    background-color: #a61e4d;
+    background-color: #367588;
     border-radius: 4px;
     color: #eee;
     padding: 15px 25px;
@@ -16,7 +16,7 @@ input[type="button"] {
 }
 
     input[type="button"]:hover {
-        background-color: #d6336c;
+        background-color: #367588;
     }
 
 .buttonMov {
